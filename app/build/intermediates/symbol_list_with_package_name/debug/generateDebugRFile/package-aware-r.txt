@@ -1,0 +1,8 @@
+com.example.threadrunnable
+id button
+id textView
+layout activity_main
+string app_name
+string button
+string textview
+style Theme_ThreadRunnable

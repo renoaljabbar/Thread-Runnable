@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ThreadRunnable</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <style name="Theme.ThreadRunnable" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>
